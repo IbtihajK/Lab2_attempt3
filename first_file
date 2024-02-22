@@ -1,3 +1,5 @@
+Combination of information contained in 3 different branches (i.e., fsc_subjects, 1st_semester, 2nd semester) into main file (i.e., first_file)
+
 cout << "Name: Ibtihaj. Roll no. 23 \n" ;
 
 1st Semester Subjects: Calculus, Programming, ICT, Islamic Studies, Physics.
